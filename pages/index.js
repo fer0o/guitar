@@ -116,6 +116,9 @@ export default function Home () {
               with&nbsp;Vercel.
             </p>
           </a>
+          <div>
+            <h1 className='text-3xl font-bold underline'>Aqui va otro texto</h1>
+          </div>
         </div>
       </main>
     </>
